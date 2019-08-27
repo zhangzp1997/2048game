@@ -27,6 +27,8 @@ public class Main {
         System.out.println(freeCount);
 
 
+
+
     }
     private static boolean detect(){
         return freeCount !=0;
